@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Networking Concepts**
 
-- 👨‍💻 All of my projects are available at [https://bosstudow.github.io/tristanrobinson.github.io/](https://bosstudow.github.io/tristanrobinson.github.io/)
+- 👨‍💻 All of my projects are available at [https://bosstudow.github.io/My_Portfolio.github.io//](https://bosstudow.github.io/My_Portfolio.github.io//)
 
 - 💬 Ask me about **what I'm working on**
 
