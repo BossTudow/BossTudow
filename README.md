@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **what I'm working on**
 
-- 📫 How to reach me **Kopure@hotmail.com**
+- 📫 How to reach me **Tudow@ymail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
