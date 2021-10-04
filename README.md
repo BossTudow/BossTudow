@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosstudow&label=Profile%20views&color=0e75b6&style=flat" alt="bosstudow" /> </p>
 
-- 🔭 I’m currently working on [SANS SEC401 Cyber Security](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/)
+- 🔭 I’m currently working on [CompTIA Network+](https://www.comptia.org/certifications/network)
 
 - 🌱 I’m currently learning **Networking Concepts**
 
