@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **what I'm working on**
 
-- 📫 How to reach me **Tudow@ymail.com**
+- 📫 How to reach me [Message Me On Twitter](https://twitter.com/tudow)
 
 
 <h3 align="left">Languages and Tools:</h3>
