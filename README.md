@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosstudow&label=Profile%20views&color=0e75b6&style=flat" alt="bosstudow" /> </p>
 
-- 🔭 I’m currently working on [CompTIA Network+](https://www.comptia.org/certifications/network)
+- 🔭 I’m currently working on [CompTIA Security+](https://www.comptia.org/certifications/security)
 
-- 🌱 I’m currently learning **Networking Concepts**
+- 🌱 I’m currently learning **Security Concepts**
 
 - 👨‍💻 All of my projects are available at [https://bosstudow.github.io/My_Portfolio.github.io//](https://bosstudow.github.io/My_Portfolio.github.io//)
 
