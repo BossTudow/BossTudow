@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosstudow&label=Profile%20views&color=0e75b6&style=flat" alt="bosstudow" /> </p>
 
-- 🔭 I’m currently working on [CompTIA Security+](https://www.comptia.org/certifications/security)
+- 🔭 I’m currently working on [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
 - 🌱 I’m currently learning **Security Concepts**
 
