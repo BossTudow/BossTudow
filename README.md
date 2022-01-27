@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tristan Robinson</h1>
-<h3 align="center">A Passionate Cyber Security Analysts</h3>
+<h3 align="center">A Passionate Cyber Security Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosstudow&label=Profile%20views&color=0e75b6&style=flat" alt="bosstudow" /> </p>
+
+- Completed [CompTIA Network+](https://www.comptia.org/certifications/network) | [CompTIA Security+](https://www.comptia.org/certifications/security) | [Python Bootcamp](https://www.udemy.com/certificate/UC-b4b78913-d4ee-46f3-8931-072353d2ef50/)
 
 - 🔭 I’m currently working on [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
